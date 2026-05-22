@@ -17,6 +17,8 @@ Users can input tumor measurements through a clean Streamlit interface and recei
 
 ---
 
+![App Screenshot](screenshot.png)
+
 ## ✨ Features
 
 - 🔬 Predicts tumor type: **Benign** or **Malignant**
@@ -138,14 +140,8 @@ numpy
 ## 🙋‍♂️ Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+- GitHub: [@Malka23](https://github.com/Malka23)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/malka-naaz-870338145)
 
 ---
 
