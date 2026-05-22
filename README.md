@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 > A machine learning web application that predicts whether a breast tumor is **Benign** or **Malignant** based on clinical tumor characteristics — built to make early detection more accessible.
 
